@@ -1,0 +1,2 @@
+c:\Users\xiang\WorkBuddy\aws-huaweisamples\huaweicloud\上传\finance-real-time-stream-processing\src\functions\index.js
+c:\Users\xiang\WorkBuddy\aws-huaweisamples\huaweicloud\上传\finance-real-time-stream-processing\src\functions\producer.py
